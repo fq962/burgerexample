@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.logo-item{
+    width: 30%;
+    vertical-align: middle;
+}
+
+.navbar{
+    box-shadow: 0 2px 5px grey;
+    background-color: #F4E4BA;
+}
+
+.navbar-nav{
+    text-decoration: none;
+}
+
+.nav-link{
+    color: black;
+    font-size: 18px;
+    text-transform: uppercase;  
+}
+
+.nav-link:hover{
+    color: brown;
+}
+
+.collapse{
+    justify-content: flex-end;
+}
+
+.carousel-item{
+   height: 600px;
+}
+
+
